@@ -17,6 +17,8 @@ $RECYCLE.BIN/
 *.project
 */target
 */.settings
+.iml
+.idea/
 *.prefs
 # Windows shortcuts
 *.lnk
